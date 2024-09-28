@@ -1,10 +1,13 @@
 # Oderinde, Emmanuel Oluwatobiloba Certifications
 
+# [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/48M44M8UFK74)
+IBM, Coursera **June, 2024**
+
 # [Essential Causal Inference Techniques for Data Science](https://www.coursera.org/account/accomplishments/certificate/DGS33YE3RBZC)
 Project work, Coursera **June, 2024**
 
-# [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/48M44M8UFK74)
-IBM, Coursera **June, 2024**
+# [Survival Analysis in R for Public Health](https://www.coursera.org/account/accomplishments/certificate/X4QXSV33NCZC)
+Imperial College London, Coursera **June, 2024**
 
 # [Logistic Regression and Prediction for Health Data](https://www.coursera.org/account/accomplishments/certificate/6N6XXRFTUZ9G)
 University of Michigan, Coursera **May, 2024**
@@ -28,7 +31,4 @@ Imperial College London, Coursera **May, 2024**
 Imperial College London, Coursera **May, 2024**
 
 # [Epidemiology for Public Health Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/U65HHE9HHFA6)
-Imperial College London, Coursera **May, 2024**
-
-# [Survival Analysis in R for Public Health](https://www.coursera.org/account/accomplishments/certificate/X4QXSV33NCZC)
 Imperial College London, Coursera **May, 2024**
