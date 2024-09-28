@@ -6,6 +6,18 @@ Project work, Coursera **June, 2024**
 # [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/48M44M8UFK74)
 IBM, Coursera **June, 2024**
 
+# [Logistic Regression and Prediction for Health Data](https://www.coursera.org/account/accomplishments/certificate/6N6XXRFTUZ9G)
+University of Michigan, Coursera **May, 2024**
+
+# [Linear Regression Modelling for Health Research](https://www.coursera.org/account/accomplishments/certificate/MBEPAQZKB8JK)
+University of Michigan, Coursera **May, 2024**
+
+# [Analysing and Visualizing Data in R](https://www.coursera.org/account/accomplishments/certificate/ZWQQ6KXYCZRP)
+University of Michigan, Coursera **May, 2024**
+
+# [Data Science for Health Research Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/QWL696YTPJ3Q)
+University of Michigan, Coursera **May, 2024**
+
 # [Validity of Bias in Epidemiology](https://www.coursera.org/account/accomplishments/certificate/6FMN3EXHLCD2)
 Imperial College London, Coursera **May, 2024**
 
@@ -20,15 +32,3 @@ Imperial College London, Coursera **May, 2024**
 
 # [Survival Analysis in R for Public Health](https://www.coursera.org/account/accomplishments/certificate/X4QXSV33NCZC)
 Imperial College London, Coursera **May, 2024**
-
-# [Logistic Regression and Prediction for Health Data](https://www.coursera.org/account/accomplishments/certificate/6N6XXRFTUZ9G)
-University of Michigan, Coursera **May, 2024**
-
-# [Linear Regression Modelling for Health Research](https://www.coursera.org/account/accomplishments/certificate/MBEPAQZKB8JK)
-University of Michigan, Coursera **May, 2024**
-
-# [Analysing and Visualizing Data in R](https://www.coursera.org/account/accomplishments/certificate/ZWQQ6KXYCZRP)
-University of Michigan, Coursera **May, 2024**
-
-# [Data Science for Health Research Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/QWL696YTPJ3Q)
-University of Michigan, Coursera **May, 2024**
